@@ -2,4 +2,4 @@ import os
 
 
 word = os.environ['name']
-print(word*10)
+print(word*7)
