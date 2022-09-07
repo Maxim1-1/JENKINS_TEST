@@ -1,2 +1,2 @@
-def test_1(browser_fixture):
+def test_1():
     assert True
